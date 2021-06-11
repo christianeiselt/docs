@@ -4,10 +4,10 @@
 ### Requirements
 *   Custom font file must be located inside the project
 
-    *   ![](images/1.png)
+    *   <img src="images/1.png" width=200>
 *   Info.plist must contain Key "Fonts provided by application" with array of font file names
 
-    *   ![](images/2.png)
+    *   <img src="images/2.png" width=600>
 
 ### Implement
 ```swift
@@ -16,4 +16,4 @@ Text("Hello, world!")
         .bold()
         .foregroundColor(.white)
 ```
-![](images/3.png)
+<img src="images/3.png" width=100>
