@@ -19,3 +19,5 @@ List of every type of [View](https://developer.apple.com/documentation/swiftui/v
 *   [UIColor.io](https://www.uicolor.io)
     
     *   Paste hex value and copy Swift code in brackets. 
+
+    *   Remove alpha value or replace with opacity   
