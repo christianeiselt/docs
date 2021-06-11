@@ -14,4 +14,4 @@ struct ContentView_Previews: PreviewProvider {
 The supported device names can be listed using this command in terminal:
 ```shell
 xcrun simctl list devicetypes
-```x
+```
