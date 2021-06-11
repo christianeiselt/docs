@@ -5,7 +5,6 @@
 
 ## Controls
 *   [Color](Controls/Color/README.md)
-
 *   [Font](Controls/Font/README.md)
 
 List of every type of [View](https://developer.apple.com/documentation/swiftui/view).
