@@ -2,14 +2,13 @@
 
 ## Custom font
 ### Requirements
-*   Custom font file must be located inside the project
+Custom font file must be located inside the project  
+<img src="images/1.png" width=200>
 
-    *   <img src="images/1.png" width=200>
-*   Info.plist must contain Key "Fonts provided by application" with array of font file names
+Info.plist must contain Key "Fonts provided by application" with array of font file names  
+<img src="images/2.png" width=600>
 
-    *   <img src="images/2.png" width=600>
-
-### Implement
+### Implementation
 ```swift
 Text("Hello, world!")
         .font(Font.custom("Pacifico-Regular", size: 40))
