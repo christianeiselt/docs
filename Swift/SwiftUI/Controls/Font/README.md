@@ -15,4 +15,4 @@ Text("Hello, world!")
         .bold()
         .foregroundColor(.white)
 ```
-<img src="images/3.png" width=100>
+<img src="images/3.png" width=200>
