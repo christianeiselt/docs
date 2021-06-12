@@ -1,4 +1,9 @@
 # Color
+
+## Apple Developer Documentation
+[SwiftUI Color](https://developer.apple.com/documentation/swiftui/color)
+
+## Implementation
 Represents a color
 ```swift
 ZStack {
@@ -8,7 +13,7 @@ ZStack {
 ```
 <img src="images/1.png" width=100>
 
-## EdgesIgnoringSafeArea
+### EdgesIgnoringSafeArea
 Extend outside the safe areas of the screen:
 ```swift
 ZStack {
