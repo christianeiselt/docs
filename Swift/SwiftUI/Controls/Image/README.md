@@ -1,5 +1,9 @@
 # Image
 
+## Apple Developer Documentation
+[SwiftUI Image](https://developer.apple.com/documentation/swiftui/image)
+
+## Implementation
 ```swift
         Image(systemName: "paperclip.circle")
           .resizable()
@@ -10,6 +14,3 @@
           .overlay(Circle().stroke(Color.black, lineWidth: 5))
 ```
 <img src="images/1.png" width=300>
-
-## Apple Developer Documentation
-[SwiftUI Image](https://developer.apple.com/documentation/swiftui/image)
