@@ -34,4 +34,3 @@ struct InfoView_Previews: PreviewProvider {
 }
 ```
 <img src="images/1.png" width=500>
-
