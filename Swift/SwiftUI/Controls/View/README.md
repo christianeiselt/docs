@@ -22,7 +22,6 @@ struct InfoView: View {
         Text(text)
       })
       .padding(.all)
-
   }
 }
 
