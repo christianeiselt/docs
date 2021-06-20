@@ -10,7 +10,7 @@
 
 ### Distribute App in XCode
 
-#### Code Signing: Code signing [AppName] failed (no errors in log files)
+#### Code Signing: Code signing "AppName" failed (no errors in log files)
 -   when using macOS 12 Beta
     -   **Solution**: Archive the product in Xcode 12 and distribute it with Xcode 13 beta.
 
