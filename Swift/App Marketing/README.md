@@ -2,7 +2,7 @@
 
 ## Idea Validation
 
-### The Starbucks Approch
+### The Starbucks Approach
 -   Chat to stranger
 -   Your brother has an idea
 -   What do they think?
@@ -20,7 +20,7 @@
 -   how many are searching per month
 -   size of competition (if low - why? (difficult to monetize?)
 
-### Landing Page (months before actually writing code)
+### Landing Page
 -   heading, small description of product
 -   register to be notified when product launches
 -   will help to determine interest in product
