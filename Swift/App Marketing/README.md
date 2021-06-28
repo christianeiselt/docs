@@ -29,3 +29,5 @@
 - multiple different ads (different images, texts, targets, etc.) to determine best effect
 - target keyword of outcome of using product (i.e. "weight loss" for fitness app)
 - set limit / automatic bidding / maximize clicks
+- max bid 0.50$, increase by 0.25$ every two hours until users are clicking on the ads, then observe whether clicks are turn to registered emails on landing page
+- really cheap way of idea validation 
