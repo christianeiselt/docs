@@ -31,3 +31,6 @@
 - set limit / automatic bidding / maximize clicks
 - max bid 0.50$, increase by 0.25$ every two hours until users are clicking on the ads, then observe whether clicks are turn to registered emails on landing page
 - really cheap way of idea validation 
+- "Buy now" button to check for buying intent for idea (then notify when next batch is available)
+
+## Creating a minimum viable product
