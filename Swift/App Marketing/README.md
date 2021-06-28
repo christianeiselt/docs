@@ -1,0 +1,3 @@
+# App Marketing
+
+## Idea Validation
