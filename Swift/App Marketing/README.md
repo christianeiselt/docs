@@ -24,3 +24,7 @@
 - heading, small description of product
 - register to be notified when product launches
 - will help to determine interest in product
+
+### Targeted ads toward landing page
+- multiple different ads (different images, texts, targets, etc.) to determine best effect
+- target keyword of outcome of using product (i.e. "weight loss" for fitness app)
