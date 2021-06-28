@@ -28,4 +28,4 @@
 ### Targeted ads toward landing page
 - multiple different ads (different images, texts, targets, etc.) to determine best effect
 - target keyword of outcome of using product (i.e. "weight loss" for fitness app)
-- set limit / automatic bidding / maximize conversions
+- set limit / automatic bidding / maximize clicks
