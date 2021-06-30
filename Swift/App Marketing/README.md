@@ -89,6 +89,7 @@
 
 #### fiverr.com
 -   5$ per Design
+
 -   Checks
     -   Design must be for commercial use (might be an addon) -> get in writing!
     -   Quality varies a lot
@@ -98,17 +99,17 @@
 -   only pay if design is as wanted
 
 ### Screenshots
-1.   only screenshots, hope that the user will figure out what they mean
-2.   text above screenshot to tell what the feature on the screenshot is
-3.   fullblown designed screenshot
+1.  only screenshots, hope that the user will figure out what they mean
+2.  text above screenshot to tell what the feature on the screenshot is
+3.  fullblown designed screenshot
 
--    use split testing as well
+-   use split testing as well
 
 #### Not good
--    no images that look like stock photography
--    max 2 sentences, ideally just a phrase if text is needed
+-   no images that look like stock photography
+-   max 2 sentences, ideally just a phrase if text is needed
 
 #### Tools
--    mockuphone.com
--    launchkit.io
--    mockups for all different devices
+-   mockuphone.com
+-   launchkit.io
+-   mockups for all different devices
