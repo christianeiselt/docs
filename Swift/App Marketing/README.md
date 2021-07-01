@@ -113,3 +113,24 @@
 -   mockuphone.com
 -   launchkit.io
 -   mockups for all different devices
+
+## First 1000 customers
+
+### Email list
+-   10_000 people or more that are willing to pay for your app
+-   Mail on launch day to inform people that registered for notification 
+
+### Landing page
+-   "Become founding member xx"
+-   first to build (long before coding) to collect email addresses (see above)
+
+### Books
+-   Robert Caldini: "Influence - The Psychology of Persuasion"
+-   Daniel Kahneman: "Thinking. Fast and Slow"
+
+### Blogging
+-   Journal on Medium (see "Desk App", getlooseleaf.com, )
+
+### Content Marketing
+-   piece of content that is interesting for people in target audience
+-   purpose: generating audience for spreading message (i.e. app launch)
