@@ -120,7 +120,7 @@
 -   10_000 people or more that are willing to pay for your app
 -   Mail on launch day to inform people that registered for notification 
 
-### Landing page
+### Landing page creativity
 -   "Become founding member xx"
 -   first to build (long before coding) to collect email addresses (see above)
 
